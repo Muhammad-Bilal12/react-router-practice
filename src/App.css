@@ -1,0 +1,13 @@
+footer {
+  width: 100%;
+  padding: 5px;
+  color: white;
+  text-align: center;
+  background-color: rgb(33, 33, 33);
+}
+
+.main {
+  width: 100%;
+  min-height: 80vh;
+  background-color: rgba(0, 0, 0, 0.2);
+}
